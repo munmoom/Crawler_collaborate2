@@ -25,6 +25,16 @@ serch.click()
 
 serch=driver.find_element_by_xpath('//*[@id="content"]/div[7]/div[1]/ul[2]/li[2]/div/div/div/ul/li[1]/a/span')
 serch.click()
+
+
+try:
+  name = driver.find_element_by_xpath(f'//*[@id="item_unit_0000007024783"]/td[2]/div/div[2]/div/a').text
+  print(f'---{name}---')
+except:
+  name = "NAN"
+  pass
+  print(f'---{name}---')
+
 res = []
 
 
