@@ -20,4 +20,4 @@
 
 
 
-* 원래 같은 내용의 프로그램을 [ttps://www.ssg.com/?kwhere=ssg_ggbr&EKAMS=yahoo.723.2984.659.1428985228289.18779501&trackingDays=1&gclid=CjwKCAjw4ayUBhA4EiwATWyBrrJrKVswj0eyzvqX5QMM-2TLVC1xctpR5otf9PVOI2dEHvGz9JMDSRoCYcsQAvD_BwE ](SSG사이트)에서 하려고 했음을 밝힙니다. 여기에서 크롤러 코딩은 '서용훈'이 맡았음.
+* 원래 같은 내용의 프로그램을 https://www.ssg.com/?ckwhere=ssg_ggbr&EKAMS=yahoo.723.2984.659.1428985228289.18779501&trackingDays=1&gclid=CjwKCAjw4ayUBhA4EiwATWyBrrJrKVswj0eyzvqX5QMM-2TLVC1xctpR5otf9PVOI2dEHvGz9JMDSRoCYcsQAvD_BwE(SSG사이트)에서 하려고 했음을 밝힙니다. 여기에서 크롤러 코딩은 '서용훈'이 맡았음.
